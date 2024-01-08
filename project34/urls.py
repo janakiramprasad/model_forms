@@ -23,3 +23,7 @@ urlpatterns = [
     path('insert_webpage/',insert_webpage,name='insert_webpage'),
     path('insert_accessrecord/',insert_accessrecord,name='insert_accessrecord'),
 ]
+
+admin.site.site_title='Djanjhghgggo'
+admin.site.index_title='Ram'
+admin.site.site_header='pava'
